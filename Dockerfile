@@ -1,6 +1,6 @@
 FROM php:7.4-fpm-alpine
 LABEL Author="prxgomes@gmail.com, lclinhares@hotmail.com" \
-	  Description="Mibew messenger"
+      Description="Mibew messenger"
 
 ENV MIBEW_VERSION=3.2.7
 
